@@ -5,11 +5,8 @@ This project leverages a Kaggle dataset of trending YouTube videos from the US a
 Objectives
 
 Sentiment Analysis: Analyze the sentiment of comments (positive, negative, neutral) and visualize sentiment distribution.
-
 Text Analysis: Examine comment lengths, word frequency, and generate word clouds for sentiment-specific and overall comments.
-
 Statistical Analysis: Identify correlations between key features like likes, replies, and video views.
-
 Predictive Modeling: Build machine learning models to classify comment sentiment based on text data.
 
 Dataset
@@ -19,13 +16,9 @@ The dataset was sourced from Kaggle, containing two key files:
 Video Statistics:
 
 video_id: Unique identifier for videos (common field with the comments file).
-
 title, channel_title, tags: Metadata about the video.
-
 views, likes, dislikes: Engagement metrics.
-
 category_id: Mapped to a category using JSON.
-
 date: The date the video trended.
 
 Comments:
