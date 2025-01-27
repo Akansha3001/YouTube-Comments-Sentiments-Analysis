@@ -56,7 +56,7 @@ Built and evaluated models to predict comment sentiment:
 Naïve Bayes: Achieved an accuracy of 82%.
 Gradient Boosting Classifier: Achieved an accuracy of 81%.
 
-###Insights and Observations:
+### Insights and Observations:
 
 Neutral comments are the most frequent, followed by positive and negative.
 Positive comments tend to be longer on average.
